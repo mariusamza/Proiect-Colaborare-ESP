@@ -1,0 +1,1 @@
+double media(double x, double y, double z);
