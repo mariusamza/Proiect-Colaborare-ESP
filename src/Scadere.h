@@ -1,1 +1,1 @@
-double scadere(float x,float y);
+double scadere(int x,int y);
