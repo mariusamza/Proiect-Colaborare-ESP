@@ -1,6 +1,6 @@
 #include <FunctieAdunare.h>
 #include "Arduino.h"
 
-int Adunare(int x, int y) {
+double Adunare(double x, double y) {
 	return x + y;
 }
