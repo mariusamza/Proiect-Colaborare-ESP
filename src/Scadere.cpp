@@ -1,7 +1,7 @@
 #include <Scadere.h> 
 #include "Arduino.h" 
  
-double scadere(float x,float y) 
+double scadere(int x,int y) 
 { 
 	return x-y; 
 }
