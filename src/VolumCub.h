@@ -1,0 +1,1 @@
+double volumCub(float x,float y,float z);
