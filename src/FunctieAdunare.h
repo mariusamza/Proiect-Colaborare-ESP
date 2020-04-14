@@ -1,1 +1,1 @@
-double Adunare(double x, double y);
+double FunctieAdunare(double x, double y);
