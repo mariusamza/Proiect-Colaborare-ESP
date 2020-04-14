@@ -1,0 +1,2 @@
+double factorial(int n);
+

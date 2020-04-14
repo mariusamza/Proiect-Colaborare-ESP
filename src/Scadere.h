@@ -1,0 +1,1 @@
+double scadere(int x,int y);
