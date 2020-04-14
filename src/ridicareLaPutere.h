@@ -1,0 +1,1 @@
+void ridicareLaPutere(double numar, double puterea);
